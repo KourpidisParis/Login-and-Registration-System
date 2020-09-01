@@ -6,3 +6,10 @@ Simple Login and registration system with Node.js
 - body-parser
 - express-validator
 - fs
+
+
+### Signin
+![signup](signup.png)
+### Signin
+![signin](signin.png)
+
