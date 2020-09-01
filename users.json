@@ -1,0 +1,36 @@
+[
+  {
+    "email": "test@test.com"
+  },
+  {
+    "email": "test1@test.com",
+    "password": "paok",
+    "id": "f336df01"
+  },
+  {
+    "email": "loa@gmail.com",
+    "password": "loa",
+    "id": "9e714a5c"
+  },
+  {
+    "email": "test3@test.com",
+    "password": "test3",
+    "id": "fd9cde67"
+  },
+  {
+    "email": "test5@test.com",
+    "password": "120dfd4f6e683d5837478e5aa3940ef7991790ce668d455f499d48a6f2787806d7512656066c71a8c2d17163c4a5ff4bbf3265d10fd9c079432150d5ef771367.7b778ec0087fdf15",
+    "id": "75705c6d"
+  },
+  {
+    "email": "test10@test.com",
+    "password": "dab95d5e4397c01d5443b9a468ef1b98f7e87dcc55b5c88287f7adfe4444b23f70a2e3e8e7789b56f69667c6a49267bb9079acbaea6679d74dacb5439de849c4.20ef27d0903639a9",
+    "id": "f74b5401"
+  },
+
+  {
+    "email": "kourpidisparis@gmail.com",
+    "password": "bdebcc7a61de21ca5d09b05116e60a42065fb4e81395aa530d7dc7e7fa50bfb767b1eb83ea656236e6d91c0fb1689083638f344c14328e04bc7acd266df694b4.f036e0c41460ad4e",
+    "id": "b1081a13"
+  }
+]
